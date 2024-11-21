@@ -27,13 +27,9 @@ manage their tasks efficiently.
 
 ## Skills
 [x] Problem Solving
-
 [x] Adaptability
-
 [x] Teamwork
-
 [x] Critical thinking
-
 [x] Coding [^1]
 
 [^1]: Front-end and backend development
