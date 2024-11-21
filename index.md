@@ -26,11 +26,11 @@ manage their tasks efficiently.
 ![Project](https://www.ntaskmanager.com/wp-content/uploads/2020/10/project-design-in-project-management.png)
 
 ## Skills
-[x] Problem Solving
-[x] Adaptability
-[x] Teamwork
-[x] Critical thinking
-[x] Coding [^1]
+- [x] Problem Solving
+- [x] Adaptability
+- [x] Teamwork
+- [x] Critical thinking
+- [x] Coding [^1]
 
 [^1]: Front-end and backend development
 
