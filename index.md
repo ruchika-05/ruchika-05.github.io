@@ -41,7 +41,7 @@ manage their tasks efficiently.
 * Enthusiast in programming and coding.
 - Also skilled in drawing and sketching.
 
-## Contact
+## References
 
 1. Prof. pqr(**contact**: 876xxxxxxx)
 2. Prof. abc(**contact**: 894xxxxxxx)
