@@ -32,6 +32,9 @@ manage their tasks efficiently.
 - [x] Critical thinking
 - [x] Coding [^1]
 
+>[!NOTE]
+>Languages known in coding are JS, C++ and Python.
+
 [^1]: Front-end and backend development
 
 ## Interests
